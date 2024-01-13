@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "About"
-permalink: /about 
+permalink: /about/ 
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/home-page-feature.jpg
