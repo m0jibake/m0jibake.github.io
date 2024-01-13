@@ -1,7 +1,7 @@
 ---
-layout: "page"
-title: "About"
-permalink: /about/ 
+layout: splash
+permalink: /
+hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/home-page-feature.jpg
@@ -36,6 +36,5 @@ feature_row:
 ---
 
 {% include feature_row %}
-
 
 Hi!
