@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://github.com/m0jibake/m0jibake.github.io/about.md
+    url: _pages/about.md
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
