@@ -1,0 +1,1 @@
+Things I've learned while reading *The Data Warehouse Toolkit* from Ralph Kimball.
