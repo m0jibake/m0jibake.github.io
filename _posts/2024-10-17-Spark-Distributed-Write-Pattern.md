@@ -1,0 +1,3 @@
+When writing data with Spark, it's easy to get confused as there are different ways to do so. The different ways do different things under the hood and depending on what you want it might be good or bad. This illustration helps to understand better what is going on when writing the data. Found on https://www.reddit.com/r/dataengineering/comments/1d9w4c9/spark_distributed_write_patterns/#lightbox. 
+
+![]({{ '/assets/img/spark-distributed-write-pattern.png' | relative_url }})
